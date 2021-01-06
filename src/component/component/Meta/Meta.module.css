@@ -1,0 +1,15 @@
+.meta{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.title{
+	font-size: 16px;
+	margin-bottom: 0.75rem;
+}
+
+.value{
+	font-size: 20px;
+}
