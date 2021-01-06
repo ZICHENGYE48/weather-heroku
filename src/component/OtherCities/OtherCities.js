@@ -1,7 +1,7 @@
 import React from 'react';
 import City from '../component/City';
 import styles from './OtherCities.module.css';
-import getWeathers from '../../api/getWeathers/getWeathers';
+import getWeathers from '../../api/getWeathers';
 import { connect } from 'react-redux';
 import setCity from '../../store/city/action/setCity';
 
